@@ -13,7 +13,7 @@ A **Flutter-based** file picker & manager that allows users to **select, open & 
 
 ## **📸 Screenshots**
 
-<img src="https://github.com/WaleedTaj/File_Picker_App/blob/master/images/Screenshot1.jpeg" width="200" style="margin-right: 20px;"/> <img src="hhttps://github.com/WaleedTaj/File_Picker_App/blob/master/images/Screenshot2.jpeg" width="200"/> <img src="https://github.com/WaleedTaj/File_Picker_App/blob/master/images/Screenshot3.jpeg" width="200"/>
+<img src="https://github.com/WaleedTaj/File_Picker_App/blob/master/images/Screenshot1.jpeg" width="200" style="margin-right: 20px;"/> <img src="https://github.com/WaleedTaj/File_Picker_App/blob/master/images/Screenshot2.jpeg" width="200"/> <img src="https://github.com/WaleedTaj/File_Picker_App/blob/master/images/Screenshot3.jpeg" width="200"/>
 
 ## **🚀 Getting Started**
 
