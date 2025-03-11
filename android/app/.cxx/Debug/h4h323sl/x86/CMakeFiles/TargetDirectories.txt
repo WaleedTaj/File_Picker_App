@@ -1,0 +1,2 @@
+C:/Users/walee/StudioProjects/file_picker_app/android/app/.cxx/Debug/h4h323sl/x86/CMakeFiles/edit_cache.dir
+C:/Users/walee/StudioProjects/file_picker_app/android/app/.cxx/Debug/h4h323sl/x86/CMakeFiles/rebuild_cache.dir

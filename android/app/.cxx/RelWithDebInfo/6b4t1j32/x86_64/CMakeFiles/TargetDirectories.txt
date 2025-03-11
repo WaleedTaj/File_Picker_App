@@ -1,0 +1,2 @@
+C:/Users/walee/StudioProjects/file_picker_app/android/app/.cxx/RelWithDebInfo/6b4t1j32/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/walee/StudioProjects/file_picker_app/android/app/.cxx/RelWithDebInfo/6b4t1j32/x86_64/CMakeFiles/rebuild_cache.dir
